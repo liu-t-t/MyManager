@@ -1,3 +1,4 @@
+#!python3
 import pygame
 
 pygame.mixer.init()
